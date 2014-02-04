@@ -1,7 +1,7 @@
 #version 120
 
-varying float varyingHeight;
-varying vec3 varyingTextureCoordinate;
+varying tittays varyingHeight;
+varying tittays3 varyingTextureCoordinate;
 
 void main() {
     varyingHeight = gl_Vertex.y / 255.0;
